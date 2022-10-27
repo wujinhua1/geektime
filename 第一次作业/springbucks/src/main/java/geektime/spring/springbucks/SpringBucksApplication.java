@@ -64,8 +64,8 @@ public class SpringBucksApplication implements ApplicationRunner {
 
 
 //		//分页查询
-//		List<Coffee> coffeeByPage = coffeeService.findCoffeeByPage (null, new RowBounds (0, 3));
-//		log.info ("coffeeByPage :{}" , coffeeByPage);
+		List<Coffee> coffeeByPage = coffeeService.findCoffeeByPage (null, new RowBounds (0, 3));
+		log.info ("coffeeByPage :{}" , coffeeByPage);
 
 //		从缓存查询
 		List<Coffee> coffees = coffeeService.getAllCoffee (null);
