@@ -12,7 +12,7 @@
     <artifactId>springbucks</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springbucks</name>
-    <description>第一题作业【使用 Druid + mybatis + redis 改造 springbucks 项目】</description>
+    <description>第二次（第二题作业）</description>
 
     <properties>
         <java.version>1.8</java.version>
@@ -88,6 +88,15 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.83</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.dataformat</groupId>
+            <artifactId>jackson-dataformat-xml</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>

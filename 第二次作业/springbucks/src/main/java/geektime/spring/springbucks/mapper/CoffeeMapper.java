@@ -130,5 +130,7 @@ public interface CoffeeMapper {
             "where ID = #{id,jdbcType=BIGINT}"
     })
     int updateByPrimaryKey (Coffee record);
+
+
 }
 
