@@ -9,3 +9,5 @@ springBucks
  
 
 3.新建一个Springboot项目，通过远程调用方式访问作业2提供的web接口，访问方式越多越好。
+
+Spring-http
