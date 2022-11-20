@@ -10,19 +10,14 @@ import java.util.*;
 
 @SpringBootApplication
 @EnableCaching
-public class WaiterServiceApplication {
+public class SpringBeanApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(WaiterServiceApplication.class, args);
+		SpringApplication.run(SpringBeanApplication.class, args);
 	}
 
 
 
-	@Bean
-	public Jackson2ObjectMapperBuilderCustomizer jacksonBuilderCustomizer() {
-		return builder -> {
-			builder.indentOutput(true);
-			builder.timeZone(TimeZone.getTimeZone("Asia/Shanghai"));
-		};
-	}
+
+
 }
