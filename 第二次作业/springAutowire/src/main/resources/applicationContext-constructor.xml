@@ -1,0 +1,14 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="coffee" class="geektime.spring.springbucks.bean.model.Coffee">
+        <constructor-arg name="id" value="30"/>
+        <constructor-arg name="name" value="拿铁"/>
+        <constructor-arg name="price" value="10.99"/>
+    </bean>
+
+
+</beans>
