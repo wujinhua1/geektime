@@ -1,0 +1,9 @@
+1.通过 spring stream 访问 rabbit mq 与kafka【简单】
+
+ 
+
+2.整合apollo 作为服务配置中心【正常】
+
+ 
+
+3.用zookeeper作为服务注册中心，并通过服务发现正确发起远程调用【较难】
