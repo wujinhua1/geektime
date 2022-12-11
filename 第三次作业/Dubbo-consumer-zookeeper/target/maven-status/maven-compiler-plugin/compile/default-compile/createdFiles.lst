@@ -1,0 +1,3 @@
+org/example/controller/TestController.class
+org/example/service/TestService.class
+org/example/DubboConsumerApplication.class

@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: boot-dubbo-consumer
+dubbo:
+  application:
+    name: duboo-consumer-service
+    id: duboo-consumer-service
+  registry:
+    address: zookeeper://localhost:2181
+    protocol: zookeeper
+  monitor:
+    protocol: registry
+  protocol:
+    name: dubbo
+    port: 20081
+server:
+  port: 8002
