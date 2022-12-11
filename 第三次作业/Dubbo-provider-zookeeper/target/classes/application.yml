@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: boot-dubbo-provider
+dubbo:
+  application:
+    name: duboo-provider-service
+    id: duboo-provider-service
+  registry:
+    address: 172.19.50.88:2181
+    protocol: zookeeper
+  monitor:
+    protocol: registry
+  protocol:
+    name: dubbo
+    port: 20080
+  provider:
+    filter: globalDubboFilter
+  config-center:
+    timeout: 10000
+
+server:
+  port: 8001
