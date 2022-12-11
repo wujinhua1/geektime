@@ -4,25 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c976eb01-046e-45c2-9a75-d2072b31063e" name="变更" comment="update">
-      <change beforePath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/org/example/DubboConsumerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/org/example/DubboConsumerApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/org/example/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/org/example/controller/TestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/org/example/service/TestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/org/example/service/TestService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/filter/DubboFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/filter/DubboFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/DubboProviderApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/DubboProviderApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/filter/DubboFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/filter/DubboFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/TestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/TestService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/TestServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/TestServiceImpl.class" afterDir="false" />
-    </list>
+    <list default="true" id="c976eb01-046e-45c2-9a75-d2072b31063e" name="变更" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -59,10 +50,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/wujinhua/Desktop/wujinhua/geektime/第三次作业/Dubbo-provider-zookeeper",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.33793104",
@@ -105,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670727948955</updated>
-      <workItem from="1670727950382" duration="4752000" />
+      <workItem from="1670727950382" duration="5936000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1670752585113</created>
@@ -139,7 +136,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

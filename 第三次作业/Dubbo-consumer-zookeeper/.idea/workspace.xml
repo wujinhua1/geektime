@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbf7c43a-b2bf-4460-be16-441cec70f5ea" name="变更" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/DubboConsumerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/DubboConsumerApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/controller/TestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/TestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/TestService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/src/main/java/org/example/filter/DubboFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/src/main/java/org/example/filter/DubboFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/target/classes/org/example/DubboProviderApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/target/classes/org/example/DubboProviderApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/target/classes/org/example/filter/DubboFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/target/classes/org/example/filter/DubboFilter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/target/classes/org/example/service/TestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/target/classes/org/example/service/TestService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/target/classes/org/example/service/TestServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-provider-zookeeper/target/classes/org/example/service/TestServiceImpl.class" afterDir="false" />
-    </list>
+    <list default="true" id="fbf7c43a-b2bf-4460-be16-441cec70f5ea" name="变更" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +50,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -108,8 +99,16 @@
       <option name="presentableId" value="Default" />
       <updated>1670313818942</updated>
       <workItem from="1670313820621" duration="65000" />
-      <workItem from="1670727925695" duration="5741000" />
+      <workItem from="1670727925695" duration="6908000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1670770496939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670770496939</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,5 +124,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
