@@ -1,4 +1,0 @@
-org/example/DubboProviderApplication.class
-org/example/service/TestService.class
-org/example/service/TestServiceImpl.class
-org/example/filter/DubboFilter.class

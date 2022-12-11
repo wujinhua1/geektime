@@ -14,9 +14,6 @@ public class DubboFilter implements org.apache.dubbo.rpc.Filter {
     @Override
     public org.apache.dubbo.rpc.Result invoke(org.apache.dubbo.rpc.Invoker<?> invoker, Invocation invocation) throws org.apache.dubbo.rpc.RpcException {
         log.info("[ globalDubboFilter successfully!:{}]", JSON.toJSONString(invocation.getMethodName()));
-        log.info("[ globalDubboFilter successfully!:{}]", JSON.toJSONString(invocation.getAttributes()));
-        System.out.println(invoker.getUrl().getAddress());
-
         return invoker.invoke(invocation);
     }
 }

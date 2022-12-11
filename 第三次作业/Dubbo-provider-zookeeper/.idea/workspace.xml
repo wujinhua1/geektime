@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c976eb01-046e-45c2-9a75-d2072b31063e" name="变更" comment="update">
+      <change beforePath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/org/example/DubboConsumerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/org/example/DubboConsumerApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/org/example/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/org/example/controller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/org/example/service/TestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dubbo-consumer-zookeeper/target/classes/org/example/service/TestService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/filter/DubboFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/filter/DubboFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/DubboProviderApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/DubboProviderApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/filter/DubboFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/filter/DubboFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/TestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/TestService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/service/TestServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/service/TestServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2IkaHWuzN65hMfRalG79J9EFLHn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/wujinhua/Desktop/wujinhua/geektime/第三次作业/Dubbo-provider-zookeeper",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.33793104",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Dubbo-provider-zookeeper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.DubboProviderApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DubboProviderApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c976eb01-046e-45c2-9a75-d2072b31063e" name="变更" comment="" />
+      <created>1670727948955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670727948955</updated>
+      <workItem from="1670727950382" duration="4752000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1670752585113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670752585113</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1670752596452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670752596452</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1670752663576</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670752663576</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
