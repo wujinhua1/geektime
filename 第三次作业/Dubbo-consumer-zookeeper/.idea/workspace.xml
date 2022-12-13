@@ -59,6 +59,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/wujinhua/Desktop/wujinhua/geektime/第三次作业/Dubbo-consumer-zookeeper",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.33793104",
@@ -99,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670313818942</updated>
       <workItem from="1670313820621" duration="65000" />
-      <workItem from="1670727925695" duration="6908000" />
+      <workItem from="1670727925695" duration="10486000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1670770496939</created>
