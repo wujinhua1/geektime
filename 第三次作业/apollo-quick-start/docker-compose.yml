@@ -4,6 +4,8 @@ services:
   apollo-quick-start:
     image: nobodyiam/apollo-quick-start
     container_name: apollo-quick-start
+    environment: 
+      EUREKA_INSTANCE_IP_ADDRESS: '192.168.0.103'
     depends_on:
       - apollo-db
     ports:
