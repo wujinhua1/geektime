@@ -3,3 +3,12 @@ server:
 spring:
   application:
     name: kafka-provider
+  cloud:
+    stream:
+      kafka:
+        binder:
+          brokers: localhost:9092
+      bindings:
+        testOutput:
+          destination: test-kafka
+      default-binder: kafka
