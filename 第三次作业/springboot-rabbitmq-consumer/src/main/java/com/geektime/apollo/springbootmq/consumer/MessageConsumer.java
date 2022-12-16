@@ -1,4 +1,4 @@
-package com.geektime.apollo.springbootmq.producer;
+package com.geektime.apollo.springbootmq.consumer;
 
 import com.geektime.apollo.springbootmq.processor.TestInPutProcessor;
 import lombok.extern.slf4j.Slf4j;

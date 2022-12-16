@@ -1,0 +1,21 @@
+server:
+  port: 4002
+spring:
+  application:
+    name: mq-provider
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+  cloud:
+    stream:
+      binders:
+        rabbit:
+          type: rabbit
+
+      bindings:
+        testOutput:
+          destination: test-exchange
+          content-type: application/json
+          binder: rabbit
