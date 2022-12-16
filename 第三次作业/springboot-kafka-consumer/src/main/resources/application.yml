@@ -3,3 +3,14 @@ server:
 spring:
   application:
     name: kafka-consumer
+  cloud:
+    stream:
+      kafka:
+        binder:
+          brokers: localhost:9092
+      bindings:
+        testInput:
+          destination: test-kafka2
+
+      default-binder: kafka
+
