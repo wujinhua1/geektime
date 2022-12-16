@@ -1,6 +1,6 @@
-package com.geektime.apollo.springbootmq.consumer;
+package com.geektime.mq.springbootmq.consumer;
 
-import com.geektime.apollo.springbootmq.processor.TestInPutProcessor;
+import com.geektime.mq.springbootmq.processor.TestInPutProcessor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.cloud.stream.annotation.StreamListener;
 import org.springframework.stereotype.Component;

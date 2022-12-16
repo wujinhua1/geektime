@@ -1,4 +1,4 @@
-package com.geektime.apollo.springbootmq.processor;
+package com.geektime.mq.springbootmq.processor;
 
 import org.springframework.cloud.stream.annotation.Output;
 import org.springframework.messaging.MessageChannel;

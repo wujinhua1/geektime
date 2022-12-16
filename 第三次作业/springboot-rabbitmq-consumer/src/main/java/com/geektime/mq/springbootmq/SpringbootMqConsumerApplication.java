@@ -1,6 +1,6 @@
-package com.geektime.apollo.springbootmq;
+package com.geektime.mq.springbootmq;
 
-import com.geektime.apollo.springbootmq.processor.TestInPutProcessor;
+import com.geektime.mq.springbootmq.processor.TestInPutProcessor;
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
 import org.springframework.cloud.stream.annotation.EnableBinding;

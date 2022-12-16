@@ -1,6 +1,6 @@
-package com.geektime.apollo.springbootmq.controller;
+package com.geektime.mq.springbootmq.controller;
 
-import com.geektime.apollo.springbootmq.producer.MessageProducer;
+import com.geektime.mq.springbootmq.producer.MessageProducer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
